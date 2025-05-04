@@ -54,6 +54,12 @@ const Achievements = () => {
       description: 'xyz',
       link: 'https://www.udemy.com/certificate/UC-c9ddb604-daae-4257-bc45-6f87aac8256d/',
     },
+    {
+      title: ' The Complete Full-Stack Web Development Bootcamp',
+      date: 'February 2025',
+      description: 'Well versed with Frontend & Backend',
+      link: 'https://www.udemy.com/certificate/UC-d32df6c6-314a-4a10-9288-67dc097ba81d/',
+    },
   ];
 
   return (
