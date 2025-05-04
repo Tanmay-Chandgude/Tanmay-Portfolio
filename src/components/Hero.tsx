@@ -1,7 +1,7 @@
 import React from 'react';
 import { Github, Linkedin, Mail, FileText } from 'lucide-react';
 import profileImage from '../Assets/tanmaypic.jpg'; // Import the local image
-import resume from '../Assets/Tanmay resume.pdf'; // Adjust path as needed
+import resume from '../Assets/tanmay resume latest.pdf'; // Adjust path as needed
 
 const Hero = () => {
   return (
