@@ -1,6 +1,6 @@
 import React from 'react';
 import { ArrowUp } from 'lucide-react';
-import resume from '../Assets/Tanmay resume.pdf'; // Adjust path as needed
+import resume from '../Assets/tanmay resume latest.pdf'; // Adjust path as needed
 
 
 const Footer = () => {
