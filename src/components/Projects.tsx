@@ -34,27 +34,6 @@ const ProjectCard = ({ project }) => (
 const Projects = () => {
   const projects = [
     {
-<<<<<<< HEAD
-      title: 'Project 1',
-      description: 'abc',
-      image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=80',
-      github: '',
-      demo: '',
-    },
-    {
-      title: 'Project 2',
-      description: 'xyz',
-      image: 'https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&w=800&q=80',
-      github: '',
-      demo: '',
-    },
-    {
-      title: 'Project 3',
-      description: 'xyz',
-      image: 'https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&w=800&q=80',
-      github: '',
-      demo: '',
-=======
       title: 'quickVidAI',
       description: "QuickVid AI is a web-based application that allows users to create AI-generated videos by providing simple text inputs.",
       image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=80',
@@ -71,7 +50,6 @@ const Projects = () => {
       description: 'A dynmaic modern web application that provides a seamless authentication experience for users.',
       image: 'https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&w=800&q=80',
       github: 'https://github.com/Tanmay-Chandgude/Authify.git',
->>>>>>> 95b4db4 (Update achievements  and projects)
     },
     // Add more projects as needed
   ];
